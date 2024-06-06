@@ -52,8 +52,5 @@ public class Main {
         System.out.println("Conteúdos concluidos Victor:"+ devVictor.getConteudosConcluidos());
         System.out.println("XP:" + devVictor.calcularTotalXp());
 
-
-        
-
     }    
 }
